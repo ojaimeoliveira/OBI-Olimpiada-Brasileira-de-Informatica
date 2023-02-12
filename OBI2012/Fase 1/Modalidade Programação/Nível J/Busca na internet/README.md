@@ -17,7 +17,7 @@ Para cada caso de teste imprima apenas uma linha, contendo apenas um inteiro, in
 | 2                  | 8                 |
 | 25                 | 100               |
 
-[MInha resolução](https://github.com/ojaimeoliveira/OBI-Olimpiada-Brasileira-de-Informatica/blob/main/OBI2012/Fase%201/N%C3%ADvel%20J/Busca%20na%20internet/busca-na-internet.py)
+[MInha resolução](https://github.com/ojaimeoliveira/OBI-Olimpiada-Brasileira-de-Informatica/blob/main/OBI2012/Fase%201/Modalidade%20Programa%C3%A7%C3%A3o/N%C3%ADvel%20J/Busca%20na%20internet/busca-na-internet.py)
 
 [Resolução oficial da OBI em Python 2](https://olimpiada.ic.unicamp.br/static/extras/obi2012/solucoes/2012f1pj_busca/busca3.py)
 
